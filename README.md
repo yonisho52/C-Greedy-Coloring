@@ -18,4 +18,4 @@
 
 ## Result
 
- <img src="https://github.com/yonisho52/C-Greedy-Coloring/blob/main/Greedy%20Coloring%20Algorithm/RESULT/RESULT.jpg" width="350" >
+ <img src="https://github.com/yonisho52/C-Greedy-Coloring/blob/main/Greedy%20Coloring%20Algorithm/RESULT/RESULT.jpg" width="600" >
