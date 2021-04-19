@@ -1,0 +1,6 @@
+﻿  Program.c
+C:\Users\yonis\Desktop\Greedy Coloring Algorithm\C-Greedy-Coloring\Greedy Coloring Algorithm\Greedy Coloring Algorithm\Program.c(40,8): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\yonis\Desktop\Greedy Coloring Algorithm\C-Greedy-Coloring\Greedy Coloring Algorithm\Greedy Coloring Algorithm\Program.c(65,18): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\yonis\Desktop\Greedy Coloring Algorithm\C-Greedy-Coloring\Greedy Coloring Algorithm\Greedy Coloring Algorithm\Program.c(68,40): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\yonis\Desktop\Greedy Coloring Algorithm\C-Greedy-Coloring\Greedy Coloring Algorithm\Greedy Coloring Algorithm\Program.c(71,34): warning C4013: 'calloc' undefined; assuming extern returning int
+  Greedy Coloring Algorithm.vcxproj -> C:\Users\yonis\Desktop\Greedy Coloring Algorithm\C-Greedy-Coloring\Greedy Coloring Algorithm\Debug\Greedy Coloring Algorithm.exe
