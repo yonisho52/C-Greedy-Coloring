@@ -6,7 +6,8 @@
 - K number of interrval
 
 
-### Output: Interval family
+### Output: 
+- Interval family
 - Edges
 - Maximum Degree
 - Minimum Degree
@@ -17,4 +18,4 @@
 
 ## Result
 
- <img src="https://github.com/yonisho52/C-Greedy-Coloring/blob/main/Greedy%20Coloring%20Algorithm/RESULT/RESULT.jpg" width="250" >
+ <img src="https://github.com/yonisho52/C-Greedy-Coloring/blob/main/Greedy%20Coloring%20Algorithm/RESULT/RESULT.jpg" width="350" >
